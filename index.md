@@ -10,3 +10,5 @@ Text
 Text
 ###### Header 6
 Text
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
