@@ -19,4 +19,3 @@ Text
 ``` javascript
 var myVar = "Hello, world!";
 ```
-
